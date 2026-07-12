@@ -1,4 +1,4 @@
-<img width="1329" height="532" alt="image" src="https://github.com/user-attachments/assets/f44cb8eb-035c-4582-9c4b-67ec2dedd155" /># 픽팍(PikPak) 서비스 한국에서 가장 저렴하게 이용하는 방법 총정리
+# 픽팍(PikPak) 서비스 한국에서 가장 저렴하게 이용하는 방법 총정리
 
 대용량 영상 스트리밍과 편리한 파일 관리를 지원하는 클라우드 서비스 **픽팍(PikPak)**은 국내 유저들 사이에서 강력한 성능으로 인기를 끌고 있습니다. 하지만 정가 그대로 결제하면 비용이 다소 부담스러울 수 있습니다. 
 
